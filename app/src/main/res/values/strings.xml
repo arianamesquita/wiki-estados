@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WikiEstados</string>
+    <string name="transition_key">image_transition</string>
+</resources>
